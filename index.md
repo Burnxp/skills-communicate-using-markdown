@@ -16,3 +16,6 @@ Leeres Git-Repository in /Users/skills/Projects/recipe-repository/.git/ initiali
 ``` Javascript
 var myVar = "Hallo Welt!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
